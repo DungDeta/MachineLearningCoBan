@@ -1,0 +1,19 @@
+beautifulsoup4
+imageio
+keras ; python_version < '3.12'
+lxml
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+requests
+rich
+scikit-learn
+sympy
+tensorflow
+tweepy
+typing_extensions
+xgboost
+polars
+jupyter
