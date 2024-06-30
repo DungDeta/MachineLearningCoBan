@@ -2,8 +2,8 @@ beautifulsoup4
 imageio
 keras ; python_version < '3.12'
 lxml
-matplotlib
-numpy
+matplotlib~=3.9.0
+numpy~=1.26.4
 opencv-python
 pandas
 pillow
@@ -17,3 +17,4 @@ typing_extensions
 xgboost
 polars
 jupyter
+mnist
